@@ -1,0 +1,6 @@
+.itemListeConteiner{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}

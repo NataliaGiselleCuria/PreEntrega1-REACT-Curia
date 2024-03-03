@@ -1,0 +1,11 @@
+:root{
+  --color-enfasis: #5d5d8d;
+  --color-texto: #403314;
+ --color-principal: #b9a997;;
+ --color-fondo: #d8cec3;
+
+}
+
+p{
+  margin: 0!important;
+}
